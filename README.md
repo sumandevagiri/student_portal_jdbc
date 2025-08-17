@@ -1,0 +1,1 @@
+The Student Management System is a Java application designed to manage student records efficiently. It provides CRUD (Create, Read, Update, Delete) operations and integrates with a relational database using JDBC for backend connectivity. This project demonstrates strong fundamentals in Java, SQL, and database-driven application development.
